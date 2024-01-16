@@ -43,6 +43,7 @@
 }
 a{
     text-decoration: none;
+    color: black;
 }
 
 .banner{
@@ -257,6 +258,8 @@ a{
     width: 450px;
     padding-left: 20px;
     border-radius: 8px;
+    background-color: lightgrey;
+    border:none;
 }
 #i3{
     text-align: center;
