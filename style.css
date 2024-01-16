@@ -9,6 +9,42 @@
     gap: 100px;
 }
 
+.header{
+    display: flex;
+    gap: 400px;
+    padding-bottom: 25px;
+}
+.naam{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 85px;
+    margin-top: 20px;
+}
+.h{
+    color: black;
+    font-size: 36px;
+    font-weight: 800;
+}
+#naam{
+    color: orangered;
+}
+.hd{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    color: black;
+}
+.home{
+    color: orangered;
+}
+a{
+    text-decoration: none;
+}
+
 .banner{
     background-image: url("Group\ 13\ \(1\)\ \(1\).png") , linear-gradient(180deg, rgba(19, 19, 24, 0.80) 0%, rgba(19, 19, 24, 0.00) 100%);;;
     background-blend-mode:multiply;
